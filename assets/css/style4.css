@@ -19,3 +19,9 @@ div{
 #div4{
     background-color:yellow;
 }
+
+#key {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
